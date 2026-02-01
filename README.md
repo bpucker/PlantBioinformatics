@@ -1,5 +1,5 @@
 # PlantBioinformatics
-Materials of the course WBIO-A-08 Plant Bioinformatics offered by the [Plant Biotechnology and Bioinformatics](www.pbb.uni-bonn.de) group at UniBonn.
+Materials of the course WBIO-A-08 Plant Bioinformatics offered by the [Plant Biotechnology and Bioinformatics](https://www.pbb.uni-bonn.de) group at UniBonn.
 
 ## 1: Introduction to Plant Bioinformatics
 
