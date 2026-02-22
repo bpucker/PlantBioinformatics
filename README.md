@@ -3,6 +3,8 @@ Materials of the course WBIO-A-08 Plant Bioinformatics offered by the [Plant Bio
 
 ## 1: Introduction to Plant Bioinformatics
 
+This lecture introduces bioinformatics as an interdisciplinary field combining biology, statistics, and computer science to acquire, manage, analyze, and interpret large biological datasets. It explains why bioinformatics is essential due to increasing data volumes, complex biological systems, and the need for automated and statistically sound analyses. The lecture provides an overview of major omics fields—including genomics, transcriptomics, proteomics, and metabolomics—as well as sequence analysis, functional annotation, phylogenetics, and systems biology. It also introduces commonly used tools (e.g., BLAST), programming languages (Python, R, Perl, Java), command-line environments, and workflow platforms such as Galaxy. Finally, it covers best practices in software development, version control, licensing, data repositories, and reproducible research infrastructure in bioinformatics.
+
 ## 2: Identification of Biosynthesis Pathways
 
 ## 3: Pathway Databases
